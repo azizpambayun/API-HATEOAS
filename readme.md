@@ -1,6 +1,6 @@
 #API HATEOAS
 
-I create this repository to implement HATEOAS on REST API for authentication
+I create this repository for the implementation of HATEOAS on REST API authentication
 
 - Build in Go version 1.23.2
 - Uses the [viper](https://github.com/spf13/viper) configurational tools for golang
